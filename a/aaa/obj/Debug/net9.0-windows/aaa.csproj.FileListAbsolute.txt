@@ -1,0 +1,15 @@
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\aaa\bin\Debug\net9.0-windows\aaa.exe
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\aaa\bin\Debug\net9.0-windows\aaa.deps.json
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\aaa\bin\Debug\net9.0-windows\aaa.runtimeconfig.json
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\aaa\bin\Debug\net9.0-windows\aaa.dll
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\aaa\bin\Debug\net9.0-windows\aaa.pdb
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\aaa\obj\Debug\net9.0-windows\aaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\aaa\obj\Debug\net9.0-windows\aaa.AssemblyInfoInputs.cache
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\aaa\obj\Debug\net9.0-windows\aaa.AssemblyInfo.cs
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\aaa\obj\Debug\net9.0-windows\aaa.csproj.CoreCompileInputs.cache
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\aaa\obj\Debug\net9.0-windows\aaa.sourcelink.json
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\aaa\obj\Debug\net9.0-windows\aaa.dll
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\aaa\obj\Debug\net9.0-windows\refint\aaa.dll
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\aaa\obj\Debug\net9.0-windows\aaa.pdb
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\aaa\obj\Debug\net9.0-windows\aaa.genruntimeconfig.cache
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\aaa\obj\Debug\net9.0-windows\ref\aaa.dll
