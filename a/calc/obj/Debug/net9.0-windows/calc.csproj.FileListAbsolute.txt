@@ -1,0 +1,5 @@
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\calc\obj\Debug\net9.0-windows\calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\calc\obj\Debug\net9.0-windows\calc.AssemblyInfoInputs.cache
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\calc\obj\Debug\net9.0-windows\calc.AssemblyInfo.cs
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\calc\obj\Debug\net9.0-windows\calc.csproj.CoreCompileInputs.cache
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\calc\obj\Debug\net9.0-windows\calc.sourcelink.json
