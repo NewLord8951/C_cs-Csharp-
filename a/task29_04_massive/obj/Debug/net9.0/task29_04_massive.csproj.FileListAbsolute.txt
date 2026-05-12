@@ -1,0 +1,15 @@
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task29_04_massive\obj\Debug\net9.0\task29_04_massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task29_04_massive\obj\Debug\net9.0\task29_04_massive.AssemblyInfoInputs.cache
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task29_04_massive\obj\Debug\net9.0\task29_04_massive.AssemblyInfo.cs
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task29_04_massive\obj\Debug\net9.0\task29_04_massive.csproj.CoreCompileInputs.cache
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task29_04_massive\obj\Debug\net9.0\task29_04_massive.sourcelink.json
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task29_04_massive\bin\Debug\net9.0\task29_04_massive.exe
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task29_04_massive\bin\Debug\net9.0\task29_04_massive.deps.json
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task29_04_massive\bin\Debug\net9.0\task29_04_massive.runtimeconfig.json
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task29_04_massive\bin\Debug\net9.0\task29_04_massive.dll
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task29_04_massive\bin\Debug\net9.0\task29_04_massive.pdb
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task29_04_massive\obj\Debug\net9.0\task29_04_massive.dll
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task29_04_massive\obj\Debug\net9.0\refint\task29_04_massive.dll
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task29_04_massive\obj\Debug\net9.0\task29_04_massive.pdb
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task29_04_massive\obj\Debug\net9.0\task29_04_massive.genruntimeconfig.cache
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task29_04_massive\obj\Debug\net9.0\ref\task29_04_massive.dll
