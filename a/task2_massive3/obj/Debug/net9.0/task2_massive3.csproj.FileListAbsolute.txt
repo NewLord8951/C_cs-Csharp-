@@ -1,0 +1,15 @@
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task2_massive3\obj\Debug\net9.0\task2_massive3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task2_massive3\obj\Debug\net9.0\task2_massive3.AssemblyInfoInputs.cache
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task2_massive3\obj\Debug\net9.0\task2_massive3.AssemblyInfo.cs
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task2_massive3\obj\Debug\net9.0\task2_massive3.csproj.CoreCompileInputs.cache
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task2_massive3\obj\Debug\net9.0\task2_massive3.sourcelink.json
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task2_massive3\bin\Debug\net9.0\task2_massive3.exe
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task2_massive3\bin\Debug\net9.0\task2_massive3.deps.json
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task2_massive3\bin\Debug\net9.0\task2_massive3.runtimeconfig.json
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task2_massive3\bin\Debug\net9.0\task2_massive3.dll
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task2_massive3\bin\Debug\net9.0\task2_massive3.pdb
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task2_massive3\obj\Debug\net9.0\task2_massive3.dll
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task2_massive3\obj\Debug\net9.0\refint\task2_massive3.dll
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task2_massive3\obj\Debug\net9.0\task2_massive3.pdb
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task2_massive3\obj\Debug\net9.0\task2_massive3.genruntimeconfig.cache
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\task2_massive3\obj\Debug\net9.0\ref\task2_massive3.dll
