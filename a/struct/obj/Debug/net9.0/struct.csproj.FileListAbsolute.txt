@@ -1,0 +1,5 @@
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\struct\obj\Debug\net9.0\struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\struct\obj\Debug\net9.0\struct.AssemblyInfoInputs.cache
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\struct\obj\Debug\net9.0\struct.AssemblyInfo.cs
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\struct\obj\Debug\net9.0\struct.csproj.CoreCompileInputs.cache
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\a\struct\obj\Debug\net9.0\struct.sourcelink.json
