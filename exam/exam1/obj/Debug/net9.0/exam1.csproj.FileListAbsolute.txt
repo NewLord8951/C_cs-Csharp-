@@ -1,0 +1,15 @@
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\exam\exam1\bin\Debug\net9.0\exam1.exe
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\exam\exam1\bin\Debug\net9.0\exam1.deps.json
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\exam\exam1\bin\Debug\net9.0\exam1.runtimeconfig.json
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\exam\exam1\bin\Debug\net9.0\exam1.dll
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\exam\exam1\bin\Debug\net9.0\exam1.pdb
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\exam\exam1\obj\Debug\net9.0\exam1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\exam\exam1\obj\Debug\net9.0\exam1.AssemblyInfoInputs.cache
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\exam\exam1\obj\Debug\net9.0\exam1.AssemblyInfo.cs
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\exam\exam1\obj\Debug\net9.0\exam1.csproj.CoreCompileInputs.cache
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\exam\exam1\obj\Debug\net9.0\exam1.sourcelink.json
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\exam\exam1\obj\Debug\net9.0\exam1.dll
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\exam\exam1\obj\Debug\net9.0\refint\exam1.dll
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\exam\exam1\obj\Debug\net9.0\exam1.pdb
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\exam\exam1\obj\Debug\net9.0\exam1.genruntimeconfig.cache
+C:\Users\Student1-3\Downloads\C_cs-Csharp-\exam\exam1\obj\Debug\net9.0\ref\exam1.dll
